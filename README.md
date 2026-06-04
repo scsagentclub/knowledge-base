@@ -17,6 +17,6 @@
 
 ## 入库方式
 
-通过 [github-repo-curator](https://github.com/scsagentclub/github-repo-curator) Skill 自动解析、分类并同步。
+通过 [github-repo-curator](https://github.com/scsagentclub/github-repo-curator) 自动解析、分类并同步到本仓库。
 
 > 持续更新中...
